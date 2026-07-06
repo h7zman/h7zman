@@ -54,9 +54,3 @@ My telegram for contact :
 ### 📊 GitHub Activity Graph
 
 ![h7zman's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=h7zman&theme=tokyonight)
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=h7zman&theme=tokyonight&column=5" alt="h7zman's Trophies" />
-</p>
