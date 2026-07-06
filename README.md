@@ -50,7 +50,15 @@ My telegram for contact :
     <img src="https://img.shields.io/badge/Linux_Mint-9CF122?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint" />
   </a>
 </p>
-
-### 📊 GitHub Activity Graph
-
-![h7zman's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=h7zman&theme=tokyonight)
+<
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://vercel.app" alt="h7zman's Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+</p>
+<p align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://vercel.app" alt="Activity Graph" width="100%" />
+</p>
