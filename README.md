@@ -52,6 +52,17 @@ My telegram for contact :
 </p>
 <
 
-![H7Z's GitHub stats](https://github-readme-stats.vercel.app/api?username=h7zman&show_icons=true&theme=radical)
+![](https://github.com/[USERNAME]/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/[USERNAME]/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/[USERNAME]/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/[USERNAME]/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+[Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h7zman&layout=compact&theme=radical)
+
+jq --raw-output '
+  [.repositories[].languages[]] 
+    | group_by(.name) 
+    | sort_by([.[].size] | add) 
+    | .[] 
+    | "\(.[0].name): \([.[].size] | add)"
+' stats.json
