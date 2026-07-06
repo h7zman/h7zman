@@ -20,14 +20,43 @@ My telegram for contact :
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Linux_Mint-9CF122?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint" />
+  <!-- Flutter -->
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  </a>
+  
+  <!-- Dart -->
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  </a>
+  
+  <!-- Android -->
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  </a>
+  
+  <!-- Java -->
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  </a>
+  
+  <!-- Linux -->
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  </a>
+  
+  <!-- Linux Mint -->
+  <a href="https://linuxmint.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Linux_Mint-9CF122?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint" />
+  </a>
 </p>
 
 ### 📊 GitHub Activity Graph
 
 ![h7zman's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=h7zman&theme=tokyonight)
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=h7zman&theme=tokyonight&column=5" alt="h7zman's Trophies" />
+</p>
