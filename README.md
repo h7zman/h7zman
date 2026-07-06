@@ -52,4 +52,6 @@ My telegram for contact :
 </p>
 <
 
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?h7zman=Pranesh-2005)](https://github.com/pranesh-2005/github-readme-stats-fast)
+![H7Z's GitHub stats](https://github-readme-stats.vercel.app/api?username=h7zman&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h7zman&layout=compact&theme=radical)
