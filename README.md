@@ -51,14 +51,5 @@ My telegram for contact :
   </a>
 </p>
 <
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://vercel.app" alt="h7zman's Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="100%"/>
-</p>
-<p align="center">
-  <img src="https://vercel.app" alt="Activity Graph" width="100%" />
-</p>
+
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?h7zman=Pranesh-2005)](https://github.com/pranesh-2005/github-readme-stats-fast)
