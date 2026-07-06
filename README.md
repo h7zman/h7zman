@@ -50,9 +50,3 @@ My telegram for contact :
     <img src="https://img.shields.io/badge/Linux_Mint-9CF122?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint" />
   </a>
 </p>
-<
-
-![](https://github.com/h7zman/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/h7zman/github-stats/blob/generated/overview.svg#gh-light-mode-only)
-![](https://github.com/h7zman/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
-![](https://github.com/h7zman/github-stats/blob/generated/languages.svg#gh-light-mode-only)
