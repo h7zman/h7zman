@@ -16,3 +16,21 @@ My telegram for contact :
 - 📫 How to reach me: amirihaithem38@gmail.com (or via the Telegram badge above).
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: my favorite linux distro is linux mint 🍃 .
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Linux_Mint-9CF122?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint" />
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=h7zman&show_icons=true&theme=tokyonight&count_private=true" alt="h7zman's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h7zman&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+</p>
